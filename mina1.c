@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 int z , maxLinha , maxColuna ;
+// z - numero de minas
 
 // Funcao que inicialmente carrega o Tabuleiro , de 1 a (n x m )
 //--------------------------------------------------------------INICIALIZAR O TABULEIRO----------------------------------------------//
